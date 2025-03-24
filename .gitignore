@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+google-ads.yaml
+temp_google.yaml
+.secrets.toml
+.streamlit/secrets.toml
