@@ -26,6 +26,11 @@ country_map = {
     "Pakistan": "1780",
     "Japan": "2392",
     "Vietnam": "2390"
+    "Malaysia": "2060",
+    "Thailand": "2394",
+    "Mexico": "2126",
+    "Philippines": "2402",
+    "Egypt": "2081"
 }
 
 country = st.selectbox("Select Target Country", list(country_map.keys()))
